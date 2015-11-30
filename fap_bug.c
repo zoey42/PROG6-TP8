@@ -1,7 +1,7 @@
 #include "fap.h"
 #include <unistd.h>
 #include <stdlib.h>
-JAVA SUXX and turing too
+JAVA SUXX and turing too but not mandelbrot
 fap creer_fap_vide()
 {
   return NULL;
