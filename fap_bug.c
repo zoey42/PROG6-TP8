@@ -39,9 +39,7 @@ fap inserer(fap f, int element, int priorite)
   return f;
 }
   
-fap extraire(fap f, int *element, int *priorite)/*je ne sais pas quoi ecrire donc je met de la merde*/ledhgkezac &éhe'riyazeor chaezirt kazhuyerhzfiuyaz erfgbazuyf zagf iuza fugza gfazfbzqilfzaefgbéze
-
-haez rzaer uagazfhzagfsqjd hfazg
+fap extraire(fap f, int *element, int *priorite)/*je ne sais pas quoi ecrire donc je met de la merde*/
 {
   fap courant;
 
