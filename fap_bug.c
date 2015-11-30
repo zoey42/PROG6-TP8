@@ -2,6 +2,7 @@
 #include <unistd.h>
 #include <stdlib.h>
 JAVA SUXX and turing too but not mandelbrot
+KAMEHAMEHA
 fap creer_fap_vide()
 {
   return NULL;
