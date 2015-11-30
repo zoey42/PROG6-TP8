@@ -27,7 +27,7 @@ fap inserer(fap f, int element, int priorite)
   else
     {
       precedent = f;
-      courant = f->prochain;
+      courant = f->prochain;/*657496874346416874654964349874654*/
       while ((courant != NULL) && (priorite >= courant->priorite))/*dsdsddfsdfsdf*/
         {
           precedent = courant;
