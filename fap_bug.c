@@ -1,7 +1,7 @@
 #include "fap.h"
 #include <unistd.h>
 #include <stdlib.h>
-
+JAVA SUXX
 fap creer_fap_vide()
 {
   return NULL;
