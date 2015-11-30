@@ -1,7 +1,7 @@
 #include "fap.h"
 #include <unistd.h>
 #include <stdlib.h>
-JAVA SUXX
+JAVA SUXX and turing too
 fap creer_fap_vide()
 {
   return NULL;
